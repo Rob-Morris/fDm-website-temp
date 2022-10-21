@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="funDAOmental" />
         <p className="description">
-          <img src="/gravitymap/2048x2048.gif" alt="Gravity Map" className={styles.logo} />
+          <img src="/gravitymap/2048x2048.gif" alt="Gravity Map" className="" />
         </p>
       </main>
 
