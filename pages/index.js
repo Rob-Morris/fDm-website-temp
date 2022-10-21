@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>funDAOmental</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="funDAOmental" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <img src="/gravitymap/2048x2048.gif" alt="Gravity Map" className={styles.logo} />
         </p>
       </main>
 
